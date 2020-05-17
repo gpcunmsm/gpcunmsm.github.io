@@ -1,9 +1,7 @@
 ## Bienvenidos
 
 Grupo de estudio de Programación Competitiva de la Universidad Nacional Mayor de San Marcos.
-Ver la [Web Oficial de Grupo](https://pcunmsm.github.io/).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ver la [Web Oficial del Grupo](https://pcunmsm.github.io/).
 
 ### Markdown
 
