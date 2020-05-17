@@ -5,7 +5,7 @@ Ver la [Web Oficial del Grupo](https://pcunmsm.github.io/).
 
 ```c++
 //Hello World in C++
-#inlclude <iostream>
+#include <iostream>
  int main(){
   std::cout<<"Hello World :)";
  }
