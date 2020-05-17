@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenidos
 
-You can use the [editor on GitHub](https://github.com/pcunmsm/pcunmsm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Grupo de estudio de Programación Competitiva de la Universidad Nacional Mayor de San Marcos.
+Ver la [Web Oficial de Grupo](https://pcunmsm.github.com/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
