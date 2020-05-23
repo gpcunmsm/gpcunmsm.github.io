@@ -187,7 +187,9 @@ background: url(../img/backgrounds/hero-bg.jpg) fixed;
   color: #3498DB;
 }
 #main-features #feature-list-item-1,
-#main-features #feature-list-item-3 {
+#main-features #feature-list-item-3,
+#main-features #feature-list-item-5,
+#main-features #feature-list-item-7 {
   background: #ecf0f1;
 }
 #main-features .title-small {
