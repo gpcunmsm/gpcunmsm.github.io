@@ -358,7 +358,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Chelsea Market', Georgia, inherit;
+  font-family: 'Chelsea Market', Georgia, serif;
 /*font-family: inherit; */
   font-weight: 500;
   line-height: 1.1;
