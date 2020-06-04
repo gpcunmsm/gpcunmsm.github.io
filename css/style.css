@@ -164,7 +164,7 @@ code {
     position: absolute;
     top: 346px;
     left: 0;
-    background: #FFF url(../img/cheatsheet.png) no-repeat;
+    background: url(../img/cheatsheet.png) no-repeat;
 }
 
 .announcement {
