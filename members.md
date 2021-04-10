@@ -4,6 +4,7 @@
 ```c++
 Railly HUGO QUISPE
 Roger RAMOS PAREDES
+Elian GOMEZ HUANCA
 ```
 ## Fundadores
 ```c++
